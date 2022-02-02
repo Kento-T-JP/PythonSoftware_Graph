@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name,gender,age,special,,,,,,,
 a,Male,20,running,,,,,,,
 b,Female,21,swimming,a,c,d,e,f,g,h
@@ -10,3 +11,17 @@ h,Female,27,walking,a,i,j,k,b,c,d
 i,secret,28,running,a,j,k,b,c,d,e
 j,Male,29,swimming,a,k,b,c,d,e,f
 k,Female,30,jogging,a,b,c,d,e,f,g
+=======
+name,gender,age,special,,,,,,,
+a,Male,20,running,,,,,,,
+b,Female,21,swimming,a,c,d,e,f,g,h
+c,secret,22,jogging,a,d,e,f,g,h,i
+d,Male,23,walking,a,e,f,g,h,i,j
+e,Female,24,running,a,f,g,h,i,j,k
+f,secret,25,swimming,a,g,h,i,j,k,b
+g,Male,26,jogging,a,h,i,j,k,b,c
+h,Female,27,walking,a,i,j,k,b,c,d
+i,secret,28,running,a,j,k,b,c,d,e
+j,Male,29,swimming,a,k,b,c,d,e,f
+k,Female,30,jogging,a,b,c,d,e,f,g
+>>>>>>> origin/main
